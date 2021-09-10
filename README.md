@@ -19,4 +19,4 @@ The solver is in `solve` if you need a health check set host and port appropriat
 
 # Port
 
-Right now, the challenge runs on port 1400. If you want to change the port *only* change it in `docker-compose.yml`.
+Right now, the challenge runs on port 1400. If you want to change the port *only change the external port* in `docker-compose.yml`.
