@@ -2,7 +2,7 @@
     "author": "novafacing",
     "description": "Have you ever wanted to have dynamic types in C? Probably not, but I am giving them to you anyway!",
     "difficulty": "Medium",
-    "flag": "sun{no_fl0ats_just_binaRII",
+    "flag": "sun{no_fl0ats_just_binaRII}",
     "name": "dynamic_type_librarii",
     "ports": [
         1400
